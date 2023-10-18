@@ -34,12 +34,12 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 100,
+          "price": 20,
           "user_priority": 1
         },
         {
           "mode": "bike",
-          "price": 80,
+          "price": 20,
           "user_priority": 2
         }
       ]
@@ -52,12 +52,12 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 100,
+          "price": 40,
           "user_priority": 1
         },
         {
           "mode": "bike",
-          "price": 80,
+          "price": 40,
           "user_priority": 2
         }
       ]
@@ -71,12 +71,12 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 100,
+          "price": 10,
           "user_priority": 1
         },
         {
           "mode": "bike",
-          "price": 80,
+          "price": 10,
           "user_priority": 2
         }
       ]
@@ -89,12 +89,12 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 100,
+          "price": 70,
           "user_priority": 1
         },
         {
           "mode": "bike",
-          "price": 80,
+          "price": 70,
           "user_priority": 2
         }
       ]
@@ -108,12 +108,12 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 100,
+          "price": 30,
           "user_priority": 1
         },
         {
           "mode": "bike",
-          "price": 80,
+          "price": 30,
           "user_priority": 2
         }
       ]
@@ -124,16 +124,16 @@
       "id": 6,
       "source": 4,
       "target": 7,
-      "distance": 3,
+      "distance": 1,
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 100,
+          "price": 10,
           "user_priority": 1
         },
         {
           "mode": "bike",
-          "price": 80,
+          "price": 10,
           "user_priority": 2
         }
       ]
