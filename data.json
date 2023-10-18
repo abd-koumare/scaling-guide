@@ -34,7 +34,7 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 20,
+          "price": 200,
           "user_priority": 1
         },
         {
@@ -52,7 +52,7 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 40,
+          "price": 400,
           "user_priority": 1
         },
         {
@@ -71,7 +71,7 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 10,
+          "price": 100,
           "user_priority": 1
         },
         {
@@ -89,7 +89,7 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 70,
+          "price": 700,
           "user_priority": 1
         },
         {
@@ -108,7 +108,7 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 30,
+          "price": 300,
           "user_priority": 1
         },
         {
@@ -128,7 +128,7 @@
       "transportation_modes": [
         {
           "mode": "car",
-          "price": 10,
+          "price": 100,
           "user_priority": 1
         },
         {
