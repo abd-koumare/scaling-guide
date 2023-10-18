@@ -1,0 +1,144 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "A"
+    },
+    {
+      "id": 2,
+      "name": "B"
+    },
+    {
+      "id": 3,
+      "name": "C"
+    },
+    {
+      "id": 4,
+      "name": "D"
+    },
+    {
+      "id": 5,
+      "name": "E"
+    },
+    {
+      "id": 6,
+      "name": "F"
+    }
+  ],
+  "edges": [
+    {
+      "id": 1,
+      "source": 1,
+      "target": 2,
+      "distance": 2,
+      "transportation_modes": [
+        {
+          "mode": "car",
+          "price": 100,
+          "user_priority": 1
+        },
+        {
+          "mode": "bike",
+          "price": 80,
+          "user_priority": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "source": 1,
+      "target": 3,
+      "distance": 4,
+      "transportation_modes": [
+        {
+          "mode": "car",
+          "price": 100,
+          "user_priority": 1
+        },
+        {
+          "mode": "bike",
+          "price": 80,
+          "user_priority": 2
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "source": 2,
+      "target": 3,
+      "distance": 1,
+      "transportation_modes": [
+        {
+          "mode": "car",
+          "price": 100,
+          "user_priority": 1
+        },
+        {
+          "mode": "bike",
+          "price": 80,
+          "user_priority": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "source": 2,
+      "target": 4,
+      "distance": 7,
+      "transportation_modes": [
+        {
+          "mode": "car",
+          "price": 100,
+          "user_priority": 1
+        },
+        {
+          "mode": "bike",
+          "price": 80,
+          "user_priority": 2
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "source": 3,
+      "target": 5,
+      "distance": 3,
+      "transportation_modes": [
+        {
+          "mode": "car",
+          "price": 100,
+          "user_priority": 1
+        },
+        {
+          "mode": "bike",
+          "price": 80,
+          "user_priority": 2
+        }
+      ]
+    },
+
+
+    {
+      "id": 6,
+      "source": 4,
+      "target": 7,
+      "distance": 3,
+      "transportation_modes": [
+        {
+          "mode": "car",
+          "price": 100,
+          "user_priority": 1
+        },
+        {
+          "mode": "bike",
+          "price": 80,
+          "user_priority": 2
+        }
+      ]
+    }
+
+  ]
+}
+
